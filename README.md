@@ -70,7 +70,7 @@
             <button type="submit">Υποβολή/Submit</button>
         </form>
     </section>
+</body>
     <footer>
         <p>&copy; 2025 Chrono Resort. Thank you for choosing us! We wish you safe travels.</p>
     </footer>
-</body>
