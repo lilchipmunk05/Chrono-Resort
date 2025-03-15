@@ -73,13 +73,13 @@
             <label for="email">Email:</label>
             <input type="email" id="email" name="email" required>
 
-            <label for="date">Ημερομηνία Άφιξης/Arrival Date:</label>
-            <input type="date" id="date" name="date" required>
+          <label for="date">Ημερομηνία Άφιξης/Arrival Date:</label>
+            <input type="text" id="arrival date" name="arrival date" pattern="\d{2}/\d{2}/\d{2}" placeholder="ηη/μμ/εε" required>
             
             <label for="date">Ημερομηνία Αναχώρισης/Departure Date:</label>
-            <input type="date" id="date" name="date" required>
-
-            <button type="submit">Υποβολή/Submit</button>
+           <input type="text" id="departure date" name="departure date" pattern="\d{2}/\d{2}/\d{2}" placeholder="ηη/μμ/εε" required>
+           
+		<button type="submit">Υποβολή/Submit</button>
         </form>
     </section>
 
