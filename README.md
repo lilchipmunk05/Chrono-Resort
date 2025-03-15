@@ -8,6 +8,7 @@
     <title>Chrono Resort</title>
     <link rel="stylesheet" href="CSS/ChronoResort Style VS.css">
 </head>
+<body>
     <header class="hero-section">
         <h1>Welcome to Chrono Resort, a trip through time</h1>
         <img src="images/ChronoResort 02.webp" alt="Ένα ταξίδι στο χρόνο" width="600">
@@ -72,3 +73,4 @@
     <footer>
         <p>&copy; 2025 Chrono Resort. Thank you for choosing us! We wish you safe travels.</p>
     </footer>
+</body>
