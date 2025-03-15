@@ -48,13 +48,14 @@
             <h3>Superior Suite</h3>
             <p>€180 τη βραδιά/the night</p>
         </div>
-		<div class="room">
+	<div class="room">
             <h3>Deluxe Family Suite</h3>
             <p>€250 τη βραδιά/the night</p>
-			</div>
-		<div class="room">
+	</div>
+	<div class="room">
             <h3>Premium Chrono Travel Suite</h3>
-            <p>€400 τη βραδιά/the night</p>			
+            <p>€400 τη βραδιά/the night</p>
+    	</div>
     </section>
     <section id="booking" class="booking-form">
         <h2>Κράτηση/Reservation</h2>
