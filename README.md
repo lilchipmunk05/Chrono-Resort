@@ -9,13 +9,12 @@
     <link rel="stylesheet" href="CSS/ChronoResort Style VS.css">
 </head>
 <body>
-</body>
-    <header class="hero-section">
+<header class="hero-section">
         <h1>Welcome to Chrono Resort, a trip through time</h1>
         <img src="images/ChronoResort 02.webp" alt="Ένα ταξίδι στο χρόνο" width="600">
         <p>Απολαύστε πολυτέλεια και χαλάρωση στις διακοπές σας</p>
         <a href="#booking" class="btn">Κάντε Κράτηση / Make a Reservation</a>
-    </header>
+</header>
     <section class="about">
         <h2>Σχετικά με Εμάς</h2>
         <p>Καλώς ήρθατε στο Chrono Resort, ένα ξενοδοχείο που συνδυάζει την ιστορία με τη φύση και τη τεχνολογία, δημιουργώντας μοναδικές εμπειρίες για τους επισκέπτες του. Το ξενοδοχείο μας είναι Family friendly. Είναι ένα μέρος μοναδικό στο οποίο θα απασχοληθείτε με δραστηριότητες βασισμένες πάνω στο θέμα της διαμονής σας. 
@@ -75,3 +74,6 @@
     <footer>
         <p>&copy; 2025 Chrono Resort. Thank you for choosing us! We wish you safe travels.</p>
     </footer>
+ </section>
+</body>
+   
