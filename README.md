@@ -705,8 +705,5 @@ behavior: 'smooth'
 </div>
 </body>
 </html>
-        <p>&copy; 2025 Chrono Resort. Thank you for choosing us! We wish you safe travels.</p>
-    </footer>
- </section>
-</body>
+       
    
