@@ -1,10 +1,8 @@
-# ChronoResort
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Chrono Resort - Experience Four Eras in One Destination</title>
+<title>Chrono Resort - Four Eras in One Destination</title>
 <script src="https://cdn.tailwindcss.com"></script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -103,8 +101,8 @@ Book Now
 <div class="absolute inset-0 bg-black bg-opacity-40"></div>
 <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-full flex items-center">
 <div class="max-w-2xl text-white">
-<h1 class="text-5xl font-['Playfair_Display'] font-bold mb-6">Experience Four Eras in One Destination</h1>
-<p class="text-xl mb-8">Immerse yourself in a unique journey through time at Chrono Resort, where luxury meets historical adventure.</p>
+<h1 class="text-5xl font-['Playfair_Display'] font-bold mb-6">Four Eras in One Destination</h1>
+<p class="text-xl mb-8">Time travel through eras while relaxing.</p>
 <button class="bg-primary text-white px-8 py-3 !rounded-button hover:bg-opacity-90 transition-all text-lg whitespace-nowrap cursor-pointer">
 Start Your Journey
 </button>
