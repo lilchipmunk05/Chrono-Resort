@@ -132,6 +132,8 @@ Start Your Journey
 <option>2 Guests</option>
 <option>3 Guests</option>
 <option>4 Guests</option>
+<option>5 Guests</option>
+<option>6 Guests</option>
 </select>
 <i class="ri-arrow-down-s-line absolute right-3 top-1/2 -translate-y-1/2 text-gray-400"></i>
 </div>
@@ -167,7 +169,7 @@ Check Availability
 <div class="absolute bottom-0 left-0 right-0 p-6 text-white z-10">
 <h3 class="text-xl font-bold mb-2">Medieval Era</h3>
 <p class="text-sm mb-4">Step back into the age of knights and castles</p>
-<span class="text-sm bg-white bg-opacity-20 px-3 py-1 rounded-full">10 Rooms Available</span>
+<span class="text-sm bg-transparent bg-opacity-20 px-3 py-1 rounded-full">10 Rooms Available</span>
 </div>
 </div>
 <div class="theme-card relative rounded-lg overflow-hidden cursor-pointer group">
@@ -175,7 +177,7 @@ Check Availability
 <div class="absolute bottom-0 left-0 right-0 p-6 text-white z-10">
 <h3 class="text-xl font-bold mb-2">Green Environment</h3>
 <p class="text-sm mb-4">Embrace sustainable luxury in harmony with nature</p>
-<span class="text-sm bg-white bg-opacity-20 px-3 py-1 rounded-full">10 Rooms Available</span>
+<span class="text-sm bg-transparent bg-opacity-20 px-3 py-1 rounded-full">10 Rooms Available</span>
 </div>
 </div>
 <div class="theme-card relative rounded-lg overflow-hidden cursor-pointer group">
@@ -183,7 +185,7 @@ Check Availability
 <div class="absolute bottom-0 left-0 right-0 p-6 text-white z-10">
 <h3 class="text-xl font-bold mb-2">Modern Era</h3>
 <p class="text-sm mb-4">Experience contemporary luxury at its finest</p>
-<span class="text-sm bg-white bg-opacity-20 px-3 py-1 rounded-full">10 Rooms Available</span>
+<span class="text-sm bg-transparent bg-opacity-20 px-3 py-1 rounded-full">10 Rooms Available</span>
 </div>
 </div>
 <div class="theme-card relative rounded-lg overflow-hidden cursor-pointer group">
@@ -191,7 +193,7 @@ Check Availability
 <div class="absolute bottom-0 left-0 right-0 p-6 text-white z-10">
 <h3 class="text-xl font-bold mb-2">Advanced Era</h3>
 <p class="text-sm mb-4">Step into the future of hospitality</p>
-<span class="text-sm bg-white bg-opacity-20 px-3 py-1 rounded-full">10 Rooms Available</span>
+<span class="text-sm bg-transparent bg-opacity-20 px-3 py-1 rounded-full">10 Rooms Available</span>
 </div>
 </div>
 </div>
